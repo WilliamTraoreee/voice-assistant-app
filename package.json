@@ -21,7 +21,7 @@
     "electron-reloader": "^1.2.3"
   },
   "dependencies": {
-    "body-parser": "^1.20.0",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "express": "^4.17.3"
   }
